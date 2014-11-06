@@ -1,4 +1,4 @@
-brainstream
+BrainStream
 ===========
 
 Matlab toolbox for designing and executing BCI-experiments
